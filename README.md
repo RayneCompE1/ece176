@@ -14,4 +14,4 @@ This project requires the student to design and implement a circuit that takes a
 
 ## Author
 
-I'm Jonah Rayne, an undergraduate electrical engineering major. I create this repository to keep track of my progress in ECE176. For now this repository is intended to be private, unless permission is given by my professor to do otherwise.
+I'm Jonah Rayne, an undergraduate electrical engineering student. I create this repository to keep track of my progress in ECE176. For now this repository is intended to be private, unless permission is given by my professor to do otherwise.
