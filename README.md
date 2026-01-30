@@ -6,9 +6,9 @@ ECE 176 is an advanced course on Digital Logic Design that focuses on RTL Design
 ## Contents
 
 1. Sequential Display
-2. Unknown
+2. TBD
 
-### Sequential Display
+### 1. Sequential Display
 
 This project requires the student to design and implement a circuit that takes a 4-bit input bus and converts it to decimal, then display the decimal value on two 7-segment displays. The design should include a twos compliment input, which enables the circuit to represent the 4-bit integer in twos compliment.
 
