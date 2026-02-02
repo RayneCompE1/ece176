@@ -1,4 +1,4 @@
-module u_decoder(input [3:0] i_bus, output reg [9:0] o_bus);
+module s_decoder(input [3:0] i_bus, output reg [9:0] o_bus);
 
 always @(*) 
 begin
